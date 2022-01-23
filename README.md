@@ -1,20 +1,20 @@
-# React test Assignment
+## React test Assignment
 
 This project was bootstrapped with create-react-app
 
-# Before start
+## Install dependencies
 
 Run follwoing command in project directory to install dependencies
 
 ### `yarn`
 
-## Run App in development mode
+## Run in development mode
 
 In the project directory run
 
 ### `yarn start`
 
-## To run tests use this command
+## To run tests run
 
 ### `yarn test`
 
